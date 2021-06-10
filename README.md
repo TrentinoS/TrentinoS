@@ -18,15 +18,6 @@ I'm **Milan Singh**, a **Data Analyst** and **Machine Learning** **Practitioner*
 - 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/milan-singh-932165a6/)
 
 
-### Find me around:
-<a href="https://www.linkedin.com/in/milan-singh-932165a6/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="milansinghthakur024@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-</a>
-
 ### 🚀 TECH STACK (ACTIVE) 
 
 - <strong>Visualization</strong>: Matplotlib / Seaborn / Plotly / Boekh / Lux
@@ -40,6 +31,16 @@ I'm **Milan Singh**, a **Data Analyst** and **Machine Learning** **Practitioner*
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrentinoS&theme=radical)
 ![Milan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrentinoS&hide=prs,issues,contribs?username=TrentinoS&count_private=true?username=TrentinoS&show_icons=true&theme=radical)
 
+
+<hr>
+<p align="center">
+  <i>Find me around:</i>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/milan-singh-932165a6/" alt="Linkedin"><img width="28px" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-1464529-1239440.png"></a>
+    <a href="mailto:milansinghthakur024@gmail.com" alt="Contact me"><img width="28px" src="https://cdn.iconscout.com/icon/free/png-64/gmail-32-761667.png"></a>
+    
+  </p>
 
 <!--
 **TrentinoS/TrentinoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
