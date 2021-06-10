@@ -28,8 +28,9 @@ I'm **Milan Singh**, a **Data Analyst** and **Machine Learning** **Practitioner*
 
 ## **Language and Tools**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrentinoS&theme=radical)
-![Milan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrentinoS&hide=prs,issues,contribs?username=TrentinoS&count_private=true?username=TrentinoS&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrentinoS&theme=tokyonight)
+![Milan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrentinoS&show_icons=true&theme=tokyonight)
+
 
 
 <hr>
@@ -42,7 +43,6 @@ I'm **Milan Singh**, a **Data Analyst** and **Machine Learning** **Practitioner*
     
   </p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TrentinoS&hide=stars&show_icons=true&theme=merko)](https://github.com/TrentinoS/github-readme-stats)
 <!--
 **TrentinoS/TrentinoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
