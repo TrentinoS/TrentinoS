@@ -20,15 +20,18 @@ I'm **Milan Singh**, a **Data Analyst** and **Machine Learning** **Practitioner*
 
 ### 🚀 TECH STACK (ACTIVE) 
 
-- <strong>Visualization</strong>: Matplotlib / Seaborn / Plotly / Bokeh / Lux
 - <strong>Programming</strong>: Python 
-- <strong>Database</strong>: PostgreSQL / MySQL / MongoDB / 
+- <strong>Database</strong>: PostgreSQL / MySQL / MongoDB 
 - <strong>ML</strong>: Scikit-Learn / Statsmodel / NumPy / Pandas / Scipy
+- <strong>Visualization</strong>: Matplotlib / Seaborn / Plotly / Bokeh / Lux
+- <strong>Dashboard</strong>: Tableau / Power BI / Watson Studio
+
 
 
 ## **Language and Tools**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrentinoS&theme=tokyonight)
+
 ![Milan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrentinoS&show_icons=true&theme=tokyonight)
 
 
