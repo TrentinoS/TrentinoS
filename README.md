@@ -2,7 +2,7 @@
 
 I'm **Milan Singh**, a **Data Analyst** and **Machine Learning** **Practitioner** and **Learner**. I'm here to solve things, Learning a lot in the Process.
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=TrentinoS" alt="TrentinoS" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TrentinoS" alt="TrentinoS" /> </p>
 
 **Pinned**
 - ⚡ [Covid-19 India](https://github.com/TrentinoS/Covid_India.git)
