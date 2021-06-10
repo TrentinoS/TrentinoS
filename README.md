@@ -2,7 +2,7 @@
 
 I'm **Milan Singh**, a **Data Analyst** and **Machine Learning** **Practitioner** and **Learner**. I'm here to solve things, Learning a lot in the Process.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=TrentinoS" alt="TrentinoS" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=TrentinoS" alt="TrentinoS" /> </p>
 
 **Pinned**
 - ⚡ [Covid-19 India](https://github.com/TrentinoS/Covid_India.git)
@@ -42,6 +42,7 @@ I'm **Milan Singh**, a **Data Analyst** and **Machine Learning** **Practitioner*
     
   </p>
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TrentinoS&hide=stars&show_icons=true&theme=merko)](https://github.com/TrentinoS/github-readme-stats)
 <!--
 **TrentinoS/TrentinoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
