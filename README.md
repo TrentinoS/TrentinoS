@@ -10,17 +10,17 @@ I'm **Milan Singh**, a **Data Analyst** and **Machine Learning** **Practitioner*
 
 **Updates:**
 - 👨‍💻 I am passionate about Data Science, Machine Learning, & I enjoy learning new things.
-
+- 👯 I’m looking to collaborate on any opensource project 
 - 🔭 I’m also working on [Visualizations](https://github.com/TrentinoS/Visualization.git)
 - 🔭 I’m also working on a **Research Paper of Optimization of Esterification Reaaction**
-- 🌱 I’m currently learning from [Coursera](https://www.coursera.org/), [Fast.ai](https://course.fast.ai/#) and reading Books and Online materials.
+- 🌱 I’m currently learning from [Coursera](https://www.coursera.org/), [Fast.ai](https://course.fast.ai/#), [StanfordOnline](https://online.stanford.edu/) and reading Books and Online materials.
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Data Visualization**
 - 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/milan-singh-932165a6/)
 
 
 ### 🚀 TECH STACK (ACTIVE) 
 
-- <strong>Visualization</strong>: Matplotlib / Seaborn / Plotly / Boekh / Lux
+- <strong>Visualization</strong>: Matplotlib / Seaborn / Plotly / Bokeh / Lux
 - <strong>Programming</strong>: Python 
 - <strong>Database</strong>: PostgreSQL / MySQL / MongoDB / 
 - <strong>ML</strong>: Scikit-Learn / Statsmodel / NumPy / Pandas / Scipy
