@@ -20,10 +20,10 @@ I'm **Milan Singh**, a **Data Analyst** and **Machine Learning** **Practitioner*
 ### 🚀 TECH STACK (ACTIVE) 
 
 - <strong>Programming</strong>: Python 
-- <strong>Database</strong>: MySQL 
+- <strong>Database</strong>: MySQL / Atlas / AWS Services
 - <strong>ML</strong>: Scikit-Learn / Statsmodel / NumPy / Pandas / Scipy
-- <strong>Visualization</strong>: Matplotlib / Seaborn / Plotly / Bokeh / Lux / GeoPandas
-- <strong>Dashboard</strong>: Power BI / Watson Studio
+- <strong>Visualization</strong>: Matplotlib / Seaborn / Plotly 
+- <strong>Dashboard</strong>: Power BI / Zoho Analytics
 
 
 
