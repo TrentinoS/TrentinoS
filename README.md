@@ -1,61 +1,27 @@
-### Hey there, I'm __Milan Singh__! 👋 :computer:
+## Hi, I'm Milan Singh
 
-I'm **Milan Singh**, a **Data Analyst** and **Machine Learning** **Practitioner** and **Learner**. I'm here to solve things, Learning a lot in the Process.
+Senior Software Engineer (AI & Cloud) based in Delhi. I build production LLM and agentic systems on AWS in Python and Node.js, and I currently lead AI engineering at Salty Accessories.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TrentinoS" alt="TrentinoS" /> </p>
+[Portfolio](https://trentinos.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/singh-milan/)
 
-**Pinned**
-- ⚡ [Covid-19 India](https://github.com/TrentinoS/Covid_India.git)
-- ⚡ [Data Visualizations](https://github.com/TrentinoS/Visualization.git)
+### What I work on
 
-**Updates:**
-- 👨‍💻 I am passionate about Data Science, Machine Learning, & I enjoy learning new things.
-- 🔭 I’m also working on [Visualizations](https://github.com/TrentinoS/Visualization.git)
-- 🔭 I’m also working on a **Research Paper oo Optimization of Esterification Reaaction**
-- 🌱 I’m currently learning from [Coursera](https://www.coursera.org/), [Fast.ai](https://course.fast.ai/#), [StanfordOnline](https://online.stanford.edu/) and reading Books and Online materials.
-- 👯 I’m looking to collaborate on **Data Science**, **Machine Learning**, **Data Visualization** and on any **Opensource Project**. 
-- 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/milan-singh-932165a6/)
+- **Agentic AI:** voice and chat agents with tool calling, scope guards and RAG over past conversations (Claude, OpenAI, Bedrock, LangChain, LangGraph)
+- **Event-driven AWS:** Lambda, SQS, SNS, EventBridge, ECS Fargate, CDK, GitHub Actions CI/CD
+- **Backends and APIs:** FastAPI and Node.js services on MongoDB and PostgreSQL
+- **Data platforms:** Airflow, dbt, Athena and Redshift
 
+### Highlights
 
-### 🚀 TECH STACK (ACTIVE) 
+- Agent platform handling about 2,000 calls a day across multiple use cases, with an estimated Rs 15L in monthly recovered revenue
+- Replaced third-party ETL with an Airflow data platform on AWS, saving about $10.8K a year
+- Built 12 internal tools that replaced spreadsheets and paid subscriptions
+- Multimodal catalog system that cut processing from 20 minutes to under 1 minute per SKU
 
-- <strong>Programming</strong>: Python 
-- <strong>Database</strong>: MySQL / Atlas / AWS Services
-- <strong>ML</strong>: Scikit-Learn / Statsmodel / NumPy / Pandas / Scipy
-- <strong>Visualization</strong>: Matplotlib / Seaborn / Plotly 
-- <strong>Dashboard</strong>: Power BI / Zoho Analytics
+### Public projects
 
+- [agent-orchestrator-aws](https://github.com/TrentinoS/agent-orchestrator-aws): event-driven agent design with a tested core
+- [ai-image-pipeline](https://github.com/TrentinoS/ai-image-pipeline): multi-provider image generation with priority queues
+- [portfolio](https://github.com/TrentinoS/portfolio): my portfolio site
 
-
-## **Language and Tools**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrentinoS&theme=tokyonight)
-
-![Milan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrentinoS&show_icons=true&theme=tokyonight)
-
-
-
-<hr>
-<p align="center">
-  <i>Find me around:</i>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/milan-singh-932165a6/" alt="Linkedin"><img width="28px" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-1464529-1239440.png"></a>
-    <a href="mailto:milansinghthakur024@gmail.com" alt="Contact me"><img width="28px" src="https://cdn.iconscout.com/icon/free/png-64/gmail-32-761667.png"></a>
-    
-  </p>
-
-<!--
-**TrentinoS/TrentinoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working as a Developer Internship at [**Information and Language Processing Research Lab**](https://ilprl.ku.edu.np/)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my production work is in private company repositories, so these are generic rewrites of the patterns, with no company code or data.
