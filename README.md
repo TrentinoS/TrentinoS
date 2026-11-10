@@ -1,4 +1,4 @@
-<img width="100%" alt="Milan Singh" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Milan%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20(AI%20%26%20Cloud)&descAlignY=60&descSize=18" />
+<img width="100%" alt="Milan Singh" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Milan%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20-%20AI%20and%20Cloud&descAlignY=60&descSize=18" />
 
 <div align="center">
 
